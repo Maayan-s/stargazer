@@ -12,7 +12,7 @@ on:
       starCount:
         description: "Star Count"
         required: true
-        default: 100
+        default: 1000
       duration:
         description: "Duration (seconds)"
         required: false
